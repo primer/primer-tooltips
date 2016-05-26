@@ -1,3 +1,7 @@
+# HEAD
+
+ * Using stylelint to lint the modules instead of scss_lint - Jon Rohan [github/github@cb0b8fd](https://github.com/github/github/commit/cb0b8fd)
+
 # v0.2.0
 
  * Cutting new version 0.2.0 - Jon Rohan [github/github@a6f6586](https://github.com/github/github/commit/a6f6586)
