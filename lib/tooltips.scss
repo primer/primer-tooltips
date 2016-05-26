@@ -8,10 +8,8 @@
   z-index: 1000000;
   display: none;
   padding: 5px 8px;
-  // Not an operator, font
-  // scss-lint:disable SpaceAroundOperator
   font: normal normal 11px/1.5 $body-font;
-  // scss-lint:enable SpaceAroundOperator
+  -webkit-font-smoothing: subpixel-antialiased;
   color: $tooltip-text-color;
   text-align: center;
   text-decoration: none;
@@ -24,7 +22,6 @@
   content: attr(aria-label);
   background: $tooltip-background-color;
   border-radius: 3px;
-  -webkit-font-smoothing: subpixel-antialiased;
   opacity: 0;
 }
 
@@ -219,7 +216,7 @@
   }
 }
 
-@media screen and (min-width:0\0) {
+@media screen and (min-width: 0\0) {
   // IE9 and IE10 rule sets go here
   .tooltipped-multiline::after {
     width: $tooltip-max-width;
@@ -275,7 +272,6 @@
     border-left-color: $background-color;
   }
 }
-
 
 @include retina-media-query {
   .tooltipped-w::after {
