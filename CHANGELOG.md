@@ -1,3 +1,7 @@
+# HEAD
+
+ * Adding documentation status to most of the modules - Jon Rohan [github/github@b97695c](https://github.com/github/github/commit/b97695c)
+
 # v0.2.3
 
  * Publishing a new version - Jon Rohan [github/github@eed0e96](https://github.com/github/github/commit/eed0e96)
