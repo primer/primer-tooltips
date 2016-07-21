@@ -1,5 +1,8 @@
 # HEAD
 
+ * Updating the modules stylelint - Jon Rohan [github/github@389609f](https://github.com/github/github/commit/389609f)
+ * Add back tooltip multiline bug - Jon Rohan [github/github@4a32708](https://github.com/github/github/commit/4a32708)
+ * dropping some browser hacks - Jon Rohan [github/github@2969e8a](https://github.com/github/github/commit/2969e8a)
  * Make sure the modules build without error before publishing - Jon Rohan [github/github@57ac5e6](https://github.com/github/github/commit/57ac5e6)
  * Adding documentation status to most of the modules - Jon Rohan [github/github@b97695c](https://github.com/github/github/commit/b97695c)
 
