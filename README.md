@@ -5,7 +5,7 @@
 
 > Add tooltips built entirely in CSS to nearly any element. Just add a few classes and an aria-label attribute.
 
-This repository is a module of the full [primer-css][primer] repository.
+This repository is a module of the full [primer-css][primer-css] repository.
 
 ## Install
 
@@ -103,7 +103,7 @@ By default the tooltips have a slight delay before appearing. This is to keep mu
 
 [MIT](./LICENSE) &copy; [GitHub](https://github.com/)
 
-[primer]: https://github.com/primer/primer
+[primer-css]: https://github.com/primer/primer
 [docs]: http://primercss.io/
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
