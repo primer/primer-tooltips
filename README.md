@@ -61,28 +61,28 @@ In addition, you'll want to specify a direction:
 Tooltip classes will conflict with Octicon classes, and as such, must go on a parent element instead of the icon.
 
 ```html
-<span class="tooltipped tooltipped-n border p-2 mb-2 mr-2 left" aria-label="This is the tooltip.">
+<span class="tooltipped tooltipped-n border p-2 mb-2 mr-2 float-left" aria-label="This is the tooltip.">
   Tooltip North
 </span>
-<span class="tooltipped tooltipped-ne border p-2 mb-2 mr-2 left" aria-label="This is the tooltip.">
+<span class="tooltipped tooltipped-ne border p-2 mb-2 mr-2 float-left" aria-label="This is the tooltip.">
   Tooltip North East
 </span>
-<span class="tooltipped tooltipped-e border p-2 mb-2 mr-2 left" aria-label="This is the tooltip.">
+<span class="tooltipped tooltipped-e border p-2 mb-2 mr-2 float-left" aria-label="This is the tooltip.">
   Tooltip East
 </span>
-<span class="tooltipped tooltipped-se border p-2 mb-2 mr-2 left" aria-label="This is the tooltip.">
+<span class="tooltipped tooltipped-se border p-2 mb-2 mr-2 float-left" aria-label="This is the tooltip.">
   Tooltip South East
 </span>
-<span class="tooltipped tooltipped-s border p-2 mb-2 mr-2 left" aria-label="This is the tooltip.">
+<span class="tooltipped tooltipped-s border p-2 mb-2 mr-2 float-left" aria-label="This is the tooltip.">
   Tooltip South
 </span>
-<span class="tooltipped tooltipped-sw border p-2 mb-2 mr-2 left" aria-label="This is the tooltip.">
+<span class="tooltipped tooltipped-sw border p-2 mb-2 mr-2 float-left" aria-label="This is the tooltip.">
   Tooltip South West
 </span>
-<span class="tooltipped tooltipped-w border p-2 mb-2 mr-2 left" aria-label="This is the tooltip.">
+<span class="tooltipped tooltipped-w border p-2 mb-2 mr-2 float-left" aria-label="This is the tooltip.">
   Tooltip West
 </span>
-<span class="tooltipped tooltipped-nw border p-2 mb-2 mr-2 left" aria-label="This is the tooltip.">
+<span class="tooltipped tooltipped-nw border p-2 mb-2 mr-2 float-left" aria-label="This is the tooltip.">
   Tooltip North West
 </span>
 ```
