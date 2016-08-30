@@ -1,3 +1,7 @@
+# HEAD
+
+ * finding more left/right - Jon Rohan [github/github@c80b828](https://github.com/github/github/commit/c80b828)
+
 # v0.3.0
 
  * Updating version - Jon Rohan [github/github@6bf5fe5](https://github.com/github/github/commit/6bf5fe5)
