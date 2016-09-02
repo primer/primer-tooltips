@@ -1,5 +1,6 @@
-# HEAD
+# v0.4.0
 
+ * Updating to major new version - Jon Rohan [github/github@f0df999](https://github.com/github/github/commit/f0df999)
  * finding more left/right - Jon Rohan [github/github@c80b828](https://github.com/github/github/commit/c80b828)
 
 # v0.3.0
