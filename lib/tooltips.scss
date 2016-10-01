@@ -248,9 +248,9 @@
     background: $background-color;
   }
 
-  .tooltipped-s,
-  .tooltipped-se,
-  .tooltipped-sw {
+  &.tooltipped-s,
+  &.tooltipped-se,
+  &.tooltipped-sw {
     &::before {
       border-bottom-color: $background-color;
     }
