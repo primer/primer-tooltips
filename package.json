@@ -11,9 +11,9 @@
     "lib",
     "build"
   ],
-  "repository": "https://github.com/primer/tooltips.git",
+  "repository": "https://github.com/primer/primer-tooltips.git",
   "bugs": {
-    "url": "https://github.com/primer/tooltips/issues"
+    "url": "https://github.com/primer/primer-tooltips/issues"
   },
   "scripts": {
     "setup": "if [ ! -d \"node_modules\" ]; then npm install; fi",

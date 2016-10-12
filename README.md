@@ -39,7 +39,7 @@ You can read more about other primer modules in the [full primer docs][docs].
 
 <!-- %docs
 title: Tooltips
-homepage: https://github.com/primer/tooltips
+homepage: https://github.com/primer/primer-tooltips
 status: Stable
 -->
 
