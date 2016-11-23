@@ -35,15 +35,10 @@ $ npm run build
 
 ## Documentation
 
-You can read more about other primer modules in the [full primer docs][docs].
-
 <!-- %docs
 title: Tooltips
-homepage: https://github.com/primer/primer-tooltips
 status: Stable
 -->
-
-### Tooltips
 
 Add tooltips built entirely in CSS to nearly any element. Just add a few classes and an `aria-label` attribute.
 
@@ -84,6 +79,16 @@ Tooltip classes will conflict with Octicon classes, and as such, must go on a pa
 </span>
 <span class="tooltipped tooltipped-nw border p-2 mb-2 mr-2 float-left" aria-label="This is the tooltip.">
   Tooltip North West
+</span>
+```
+
+#### Tooltips with multiple lines
+Use `.tooltipped-multiline` when you have long content. This style has some limitations: you cannot pre-format the text with newlines, and tooltips are limited to a max-width of `250px`.
+
+
+```html
+<span class="tooltipped tooltipped-multiline tooltipped-n border p-2" aria-label="This is the tooltip with multiple lines. This is the tooltip with multiple lines.">
+  Tooltip with multiple lines
 </span>
 ```
 
