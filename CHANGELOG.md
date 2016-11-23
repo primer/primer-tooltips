@@ -1,3 +1,9 @@
+# v0.5.1
+
+ * add docs for multi-line tooltips - broccolini [github/github@9524337](https://github.com/github/github/commit/9524337)
+ * patch version - Jon Rohan [github/github@97acc55](https://github.com/github/github/commit/97acc55)
+ * typo - Jon Rohan [github/github@eb0773b](https://github.com/github/github/commit/eb0773b)
+
 # v0.5.0
 
  * Cutting new versions of primer modules - Jon Rohan [github/github@157f5ab](https://github.com/github/github/commit/157f5ab)
