@@ -1,3 +1,7 @@
+# HEAD
+
+ * Add note on aria-label and reminder to tooltip responsibly - Mu-An Chiou [github/github@44adee6](https://github.com/github/github/commit/44adee6)
+
 # v0.5.1
 
  * add docs for multi-line tooltips - broccolini [github/github@9524337](https://github.com/github/github/commit/9524337)
