@@ -1,5 +1,8 @@
-# HEAD
+# v0.5.2
 
+ * bumping the version - Jon Rohan [github/github@4a72b25](https://github.com/github/github/commit/4a72b25)
+ * Pointing main js file to build - Jon Rohan [github/github@3575651](https://github.com/github/github/commit/3575651)
+ * don't change the versions yet - Jon Rohan [github/github@6bebcff](https://github.com/github/github/commit/6bebcff)
  * Add note on aria-label and reminder to tooltip responsibly - Mu-An Chiou [github/github@44adee6](https://github.com/github/github/commit/44adee6)
 
 # v0.5.1
