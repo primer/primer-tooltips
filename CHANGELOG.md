@@ -1,3 +1,8 @@
+# v0.5.4
+
+ * Bump version and update changelog - Mu-An Chiou [github/github@8bed463](https://github.com/github/github/commit/8bed463)7ff6
+ * Remove word-break and use word-wrap instead - Mu-An Chiou [github/github@35f9c6b](https://github.com/github/github/commit/35f9c6b)6ad8
+
 # v0.5.3
 
  * Bump all the version numbers for readme - Mu-An Chiou [github/github@a9d152f](https://github.com/github/github/commit/a9d152f)
