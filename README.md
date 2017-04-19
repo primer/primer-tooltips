@@ -104,6 +104,16 @@ By default the tooltips have a slight delay before appearing. This is to keep mu
 </span>
 ```
 
+#### Multiline Tooltips
+
+To force longer tooltips to break to multiple lines, add the class `.tooltipped-multiline`
+
+```html
+<span class="tooltipped tooltipped-n tooltipped-multiline border p-2" aria-label="This is the tooltip, it says a lot of stuff that sometimes breaks lines.">
+  Tooltip with multiple lines
+</span>
+```
+
 <!-- %enddocs -->
 
 ## License
