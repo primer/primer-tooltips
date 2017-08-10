@@ -3,4 +3,4 @@ We've moved all of the Primer CSS modules to a [single repository][repo]. You ca
 
 [repo]: https://github.com/primer/primer-css
 [issues]: https://github.com/primer/primer-css/issues
-[code]: https://github.com/primer/primer-css/tree/master/packages/primer-tooltips
+[code]: https://github.com/primer/primer-css/tree/master/modules/primer-tooltips
